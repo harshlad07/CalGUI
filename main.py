@@ -1,4 +1,4 @@
-from Application import app
+from Application import pycalculator
 
 if __name__ == "__main__":
-    app.main()
+    pycalculator.main()
